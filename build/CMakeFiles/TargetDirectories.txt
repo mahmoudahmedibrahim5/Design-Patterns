@@ -1,0 +1,4 @@
+/home/alien/Desktop/Embedded/Design-Patterns/build/CMakeFiles/main.dir
+/home/alien/Desktop/Embedded/Design-Patterns/build/CMakeFiles/debug.dir
+/home/alien/Desktop/Embedded/Design-Patterns/build/CMakeFiles/edit_cache.dir
+/home/alien/Desktop/Embedded/Design-Patterns/build/CMakeFiles/rebuild_cache.dir
