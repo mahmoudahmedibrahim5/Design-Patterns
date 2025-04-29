@@ -145,4 +145,10 @@ CMakeFiles/main.dir/src/main.cpp.o: \
  /usr/include/c++/14.2.1/bits/ostream.tcc /usr/include/c++/14.2.1/istream \
  /usr/include/c++/14.2.1/bits/istream.tcc \
  /home/alien/Desktop/Embedded/Design-Patterns/test/Test_Singelton.hpp \
- /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Singelton.hpp
+ /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Singelton.hpp \
+ /home/alien/Desktop/Embedded/Design-Patterns/test/Test_Factory.hpp \
+ /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/CreateFactory.hpp \
+ /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Transport.hpp \
+ /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Truck.hpp \
+ /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Transport.hpp \
+ /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Ship.hpp

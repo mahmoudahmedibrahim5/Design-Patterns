@@ -100,10 +100,66 @@ CMakeFiles/main.dir/CreationalPatterns/Singelton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/CreationalPatterns/Singelton.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Singelton.cpp -o CMakeFiles/main.dir/CreationalPatterns/Singelton.cpp.s
 
+CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.o: /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/CreateFactory.cpp
+CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alien/Desktop/Embedded/Design-Patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.o -MF CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.o.d -o CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.o -c /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/CreateFactory.cpp
+
+CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/CreateFactory.cpp > CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.i
+
+CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/CreateFactory.cpp -o CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.s
+
+CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.o: /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Transport.cpp
+CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alien/Desktop/Embedded/Design-Patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.o -MF CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.o.d -o CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.o -c /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Transport.cpp
+
+CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Transport.cpp > CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.i
+
+CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Transport.cpp -o CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.s
+
+CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.o: /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Truck.cpp
+CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alien/Desktop/Embedded/Design-Patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.o -MF CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.o.d -o CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.o -c /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Truck.cpp
+
+CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Truck.cpp > CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.i
+
+CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Truck.cpp -o CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.s
+
+CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.o: /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Ship.cpp
+CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alien/Desktop/Embedded/Design-Patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.o -MF CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.o.d -o CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.o -c /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Ship.cpp
+
+CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Ship.cpp > CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.i
+
+CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alien/Desktop/Embedded/Design-Patterns/CreationalPatterns/Factory/Ship.cpp -o CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.s
+
 CMakeFiles/main.dir/test/Test_Singelton.cpp.o: CMakeFiles/main.dir/flags.make
 CMakeFiles/main.dir/test/Test_Singelton.cpp.o: /home/alien/Desktop/Embedded/Design-Patterns/test/Test_Singelton.cpp
 CMakeFiles/main.dir/test/Test_Singelton.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alien/Desktop/Embedded/Design-Patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/main.dir/test/Test_Singelton.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alien/Desktop/Embedded/Design-Patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/main.dir/test/Test_Singelton.cpp.o"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/test/Test_Singelton.cpp.o -MF CMakeFiles/main.dir/test/Test_Singelton.cpp.o.d -o CMakeFiles/main.dir/test/Test_Singelton.cpp.o -c /home/alien/Desktop/Embedded/Design-Patterns/test/Test_Singelton.cpp
 
 CMakeFiles/main.dir/test/Test_Singelton.cpp.i: cmake_force
@@ -114,22 +170,46 @@ CMakeFiles/main.dir/test/Test_Singelton.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/test/Test_Singelton.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alien/Desktop/Embedded/Design-Patterns/test/Test_Singelton.cpp -o CMakeFiles/main.dir/test/Test_Singelton.cpp.s
 
+CMakeFiles/main.dir/test/Test_Factory.cpp.o: CMakeFiles/main.dir/flags.make
+CMakeFiles/main.dir/test/Test_Factory.cpp.o: /home/alien/Desktop/Embedded/Design-Patterns/test/Test_Factory.cpp
+CMakeFiles/main.dir/test/Test_Factory.cpp.o: CMakeFiles/main.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/alien/Desktop/Embedded/Design-Patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/main.dir/test/Test_Factory.cpp.o"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/main.dir/test/Test_Factory.cpp.o -MF CMakeFiles/main.dir/test/Test_Factory.cpp.o.d -o CMakeFiles/main.dir/test/Test_Factory.cpp.o -c /home/alien/Desktop/Embedded/Design-Patterns/test/Test_Factory.cpp
+
+CMakeFiles/main.dir/test/Test_Factory.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/main.dir/test/Test_Factory.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/alien/Desktop/Embedded/Design-Patterns/test/Test_Factory.cpp > CMakeFiles/main.dir/test/Test_Factory.cpp.i
+
+CMakeFiles/main.dir/test/Test_Factory.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/main.dir/test/Test_Factory.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/alien/Desktop/Embedded/Design-Patterns/test/Test_Factory.cpp -o CMakeFiles/main.dir/test/Test_Factory.cpp.s
+
 # Object files for target main
 main_OBJECTS = \
 "CMakeFiles/main.dir/src/main.cpp.o" \
 "CMakeFiles/main.dir/CreationalPatterns/Singelton.cpp.o" \
-"CMakeFiles/main.dir/test/Test_Singelton.cpp.o"
+"CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.o" \
+"CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.o" \
+"CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.o" \
+"CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.o" \
+"CMakeFiles/main.dir/test/Test_Singelton.cpp.o" \
+"CMakeFiles/main.dir/test/Test_Factory.cpp.o"
 
 # External object files for target main
 main_EXTERNAL_OBJECTS =
 
 main: CMakeFiles/main.dir/src/main.cpp.o
 main: CMakeFiles/main.dir/CreationalPatterns/Singelton.cpp.o
+main: CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.o
+main: CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.o
+main: CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.o
+main: CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.o
 main: CMakeFiles/main.dir/test/Test_Singelton.cpp.o
+main: CMakeFiles/main.dir/test/Test_Factory.cpp.o
 main: CMakeFiles/main.dir/build.make
 main: CMakeFiles/main.dir/compiler_depend.ts
 main: CMakeFiles/main.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/alien/Desktop/Embedded/Design-Patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable main"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/home/alien/Desktop/Embedded/Design-Patterns/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable main"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/main.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -4,7 +4,12 @@ main: \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/crtbeginS.o \
   CMakeFiles/main.dir/src/main.cpp.o \
   CMakeFiles/main.dir/CreationalPatterns/Singelton.cpp.o \
+  CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.o \
+  CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.o \
+  CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.o \
+  CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.o \
   CMakeFiles/main.dir/test/Test_Singelton.cpp.o \
+  CMakeFiles/main.dir/test/Test_Factory.cpp.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libstdc++.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libm.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libm.so \
@@ -43,7 +48,17 @@ CMakeFiles/main.dir/src/main.cpp.o:
 
 CMakeFiles/main.dir/CreationalPatterns/Singelton.cpp.o:
 
+CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.o:
+
+CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.o:
+
+CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.o:
+
+CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.o:
+
 CMakeFiles/main.dir/test/Test_Singelton.cpp.o:
+
+CMakeFiles/main.dir/test/Test_Factory.cpp.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libstdc++.so:
 

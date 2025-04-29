@@ -10,7 +10,12 @@ set(INC_FILES
 set(SRC_FILES
     src/main.cpp
     CreationalPatterns/Singelton.cpp
+    CreationalPatterns/CreateFactory.cpp
+    CreationalPatterns/Factory/Transport.cpp
+    CreationalPatterns/Factory/Truck.cpp
+    CreationalPatterns/Factory/Ship.cpp
     test/Test_Singelton.cpp
+    test/Test_Factory.cpp
 )
 
 add_executable(main ${SRC_FILES})

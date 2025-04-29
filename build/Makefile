@@ -149,6 +149,114 @@ debug/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/build
 .PHONY : debug/fast
 
+CreationalPatterns/CreateFactory.o: CreationalPatterns/CreateFactory.cpp.o
+.PHONY : CreationalPatterns/CreateFactory.o
+
+# target to build an object file
+CreationalPatterns/CreateFactory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/CreationalPatterns/CreateFactory.cpp.o
+.PHONY : CreationalPatterns/CreateFactory.cpp.o
+
+CreationalPatterns/CreateFactory.i: CreationalPatterns/CreateFactory.cpp.i
+.PHONY : CreationalPatterns/CreateFactory.i
+
+# target to preprocess a source file
+CreationalPatterns/CreateFactory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/CreationalPatterns/CreateFactory.cpp.i
+.PHONY : CreationalPatterns/CreateFactory.cpp.i
+
+CreationalPatterns/CreateFactory.s: CreationalPatterns/CreateFactory.cpp.s
+.PHONY : CreationalPatterns/CreateFactory.s
+
+# target to generate assembly for a file
+CreationalPatterns/CreateFactory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CreationalPatterns/CreateFactory.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/CreationalPatterns/CreateFactory.cpp.s
+.PHONY : CreationalPatterns/CreateFactory.cpp.s
+
+CreationalPatterns/Factory/Ship.o: CreationalPatterns/Factory/Ship.cpp.o
+.PHONY : CreationalPatterns/Factory/Ship.o
+
+# target to build an object file
+CreationalPatterns/Factory/Ship.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/CreationalPatterns/Factory/Ship.cpp.o
+.PHONY : CreationalPatterns/Factory/Ship.cpp.o
+
+CreationalPatterns/Factory/Ship.i: CreationalPatterns/Factory/Ship.cpp.i
+.PHONY : CreationalPatterns/Factory/Ship.i
+
+# target to preprocess a source file
+CreationalPatterns/Factory/Ship.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/CreationalPatterns/Factory/Ship.cpp.i
+.PHONY : CreationalPatterns/Factory/Ship.cpp.i
+
+CreationalPatterns/Factory/Ship.s: CreationalPatterns/Factory/Ship.cpp.s
+.PHONY : CreationalPatterns/Factory/Ship.s
+
+# target to generate assembly for a file
+CreationalPatterns/Factory/Ship.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CreationalPatterns/Factory/Ship.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/CreationalPatterns/Factory/Ship.cpp.s
+.PHONY : CreationalPatterns/Factory/Ship.cpp.s
+
+CreationalPatterns/Factory/Transport.o: CreationalPatterns/Factory/Transport.cpp.o
+.PHONY : CreationalPatterns/Factory/Transport.o
+
+# target to build an object file
+CreationalPatterns/Factory/Transport.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/CreationalPatterns/Factory/Transport.cpp.o
+.PHONY : CreationalPatterns/Factory/Transport.cpp.o
+
+CreationalPatterns/Factory/Transport.i: CreationalPatterns/Factory/Transport.cpp.i
+.PHONY : CreationalPatterns/Factory/Transport.i
+
+# target to preprocess a source file
+CreationalPatterns/Factory/Transport.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/CreationalPatterns/Factory/Transport.cpp.i
+.PHONY : CreationalPatterns/Factory/Transport.cpp.i
+
+CreationalPatterns/Factory/Transport.s: CreationalPatterns/Factory/Transport.cpp.s
+.PHONY : CreationalPatterns/Factory/Transport.s
+
+# target to generate assembly for a file
+CreationalPatterns/Factory/Transport.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CreationalPatterns/Factory/Transport.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/CreationalPatterns/Factory/Transport.cpp.s
+.PHONY : CreationalPatterns/Factory/Transport.cpp.s
+
+CreationalPatterns/Factory/Truck.o: CreationalPatterns/Factory/Truck.cpp.o
+.PHONY : CreationalPatterns/Factory/Truck.o
+
+# target to build an object file
+CreationalPatterns/Factory/Truck.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/CreationalPatterns/Factory/Truck.cpp.o
+.PHONY : CreationalPatterns/Factory/Truck.cpp.o
+
+CreationalPatterns/Factory/Truck.i: CreationalPatterns/Factory/Truck.cpp.i
+.PHONY : CreationalPatterns/Factory/Truck.i
+
+# target to preprocess a source file
+CreationalPatterns/Factory/Truck.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/CreationalPatterns/Factory/Truck.cpp.i
+.PHONY : CreationalPatterns/Factory/Truck.cpp.i
+
+CreationalPatterns/Factory/Truck.s: CreationalPatterns/Factory/Truck.cpp.s
+.PHONY : CreationalPatterns/Factory/Truck.s
+
+# target to generate assembly for a file
+CreationalPatterns/Factory/Truck.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/CreationalPatterns/Factory/Truck.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/CreationalPatterns/Factory/Truck.cpp.s
+.PHONY : CreationalPatterns/Factory/Truck.cpp.s
+
 CreationalPatterns/Singelton.o: CreationalPatterns/Singelton.cpp.o
 .PHONY : CreationalPatterns/Singelton.o
 
@@ -203,6 +311,33 @@ src/main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/src/main.cpp.s
 .PHONY : src/main.cpp.s
 
+test/Test_Factory.o: test/Test_Factory.cpp.o
+.PHONY : test/Test_Factory.o
+
+# target to build an object file
+test/Test_Factory.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test/Test_Factory.cpp.o
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/test/Test_Factory.cpp.o
+.PHONY : test/Test_Factory.cpp.o
+
+test/Test_Factory.i: test/Test_Factory.cpp.i
+.PHONY : test/Test_Factory.i
+
+# target to preprocess a source file
+test/Test_Factory.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test/Test_Factory.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/test/Test_Factory.cpp.i
+.PHONY : test/Test_Factory.cpp.i
+
+test/Test_Factory.s: test/Test_Factory.cpp.s
+.PHONY : test/Test_Factory.s
+
+# target to generate assembly for a file
+test/Test_Factory.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/main.dir/build.make CMakeFiles/main.dir/test/Test_Factory.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/debug.dir/build.make CMakeFiles/debug.dir/test/Test_Factory.cpp.s
+.PHONY : test/Test_Factory.cpp.s
+
 test/Test_Singelton.o: test/Test_Singelton.cpp.o
 .PHONY : test/Test_Singelton.o
 
@@ -241,12 +376,27 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... debug"
 	@echo "... main"
+	@echo "... CreationalPatterns/CreateFactory.o"
+	@echo "... CreationalPatterns/CreateFactory.i"
+	@echo "... CreationalPatterns/CreateFactory.s"
+	@echo "... CreationalPatterns/Factory/Ship.o"
+	@echo "... CreationalPatterns/Factory/Ship.i"
+	@echo "... CreationalPatterns/Factory/Ship.s"
+	@echo "... CreationalPatterns/Factory/Transport.o"
+	@echo "... CreationalPatterns/Factory/Transport.i"
+	@echo "... CreationalPatterns/Factory/Transport.s"
+	@echo "... CreationalPatterns/Factory/Truck.o"
+	@echo "... CreationalPatterns/Factory/Truck.i"
+	@echo "... CreationalPatterns/Factory/Truck.s"
 	@echo "... CreationalPatterns/Singelton.o"
 	@echo "... CreationalPatterns/Singelton.i"
 	@echo "... CreationalPatterns/Singelton.s"
 	@echo "... src/main.o"
 	@echo "... src/main.i"
 	@echo "... src/main.s"
+	@echo "... test/Test_Factory.o"
+	@echo "... test/Test_Factory.i"
+	@echo "... test/Test_Factory.s"
 	@echo "... test/Test_Singelton.o"
 	@echo "... test/Test_Singelton.i"
 	@echo "... test/Test_Singelton.s"
