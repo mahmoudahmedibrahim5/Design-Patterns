@@ -18,3 +18,9 @@
 
 ## Behavioral Patterns
 * Behavioral design patterns are concerned with algorithms and the assignment of responsibilities between objects.
+
+
+
+## Resources
+* https://refactoring.guru/design-patterns 
+* https://www.youtube.com/playlist?list=PLkH1REggdbJogZa0Rq5xp1q4AOR0fpkNG
