@@ -8,8 +8,12 @@ debug: \
   CMakeFiles/debug.dir/CreationalPatterns/Factory/Transport.cpp.o \
   CMakeFiles/debug.dir/CreationalPatterns/Factory/Truck.cpp.o \
   CMakeFiles/debug.dir/CreationalPatterns/Factory/Ship.cpp.o \
+  CMakeFiles/debug.dir/CreationalPatterns/Director.cpp.o \
+  CMakeFiles/debug.dir/CreationalPatterns/Builder/Builder.cpp.o \
+  CMakeFiles/debug.dir/CreationalPatterns/Builder/Product.cpp.o \
   CMakeFiles/debug.dir/test/Test_Singelton.cpp.o \
   CMakeFiles/debug.dir/test/Test_Factory.cpp.o \
+  CMakeFiles/debug.dir/test/Test_Builder.cpp.o \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libstdc++.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libm.so \
   /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libm.so \
@@ -56,9 +60,17 @@ CMakeFiles/debug.dir/CreationalPatterns/Factory/Truck.cpp.o:
 
 CMakeFiles/debug.dir/CreationalPatterns/Factory/Ship.cpp.o:
 
+CMakeFiles/debug.dir/CreationalPatterns/Director.cpp.o:
+
+CMakeFiles/debug.dir/CreationalPatterns/Builder/Builder.cpp.o:
+
+CMakeFiles/debug.dir/CreationalPatterns/Builder/Product.cpp.o:
+
 CMakeFiles/debug.dir/test/Test_Singelton.cpp.o:
 
 CMakeFiles/debug.dir/test/Test_Factory.cpp.o:
+
+CMakeFiles/debug.dir/test/Test_Builder.cpp.o:
 
 /usr/lib/gcc/x86_64-pc-linux-gnu/14.2.1/../../../../lib/libstdc++.so:
 
